@@ -42,11 +42,11 @@ $Var = 50;
 
 ```html
 
-<img src="./assets/img/exp.png" alt="EXP-Pic" width="100%"/>
+<img src="./assets/img/exp.jpg" alt="EXP-Pic" width="100%"/>
 ```
 
 ```markdown
-![EXP-Pic](./assets/img/exp.png)
+![EXP-Pic](./assets/img/exp.jpg)
 ```
 
-![EXP-Pic](./assets/img/exp.png)
+![EXP-Pic](./assets/img/exp.jpg)
