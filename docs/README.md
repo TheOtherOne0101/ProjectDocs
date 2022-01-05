@@ -37,3 +37,16 @@ $Var = 50;
 | A1         | A2           | A3          | A4                             |
 | B1         | B2           | B3          | B4                             |
 | C1         | C2           | C3          | C4                             |
+
+## Bilder einfügen
+
+```html
+
+<img src="./assets/img/exp.png" alt="EXP-Pic" width="100%"/>
+```
+
+```markdown
+![EXP-Pic](./assets/img/exp.png)
+```
+
+![EXP-Pic](./assets/img/exp.png)
